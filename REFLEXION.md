@@ -1,0 +1,2 @@
+
+Durante este proyecto, aprendí la importancia de la documentación técnica para productos como NetGuard Pro. El uso de Git y GitHub me permitió llevar un control profesional de los cambios y asegurar que la información esté disponible para el equipo y los clientes.
